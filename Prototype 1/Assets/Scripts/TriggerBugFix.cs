@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+     * Darion Jeffries
+     * TriggerBugFix
+     * Prototype 1
+     * When colliding with trigger, adds to score once.
+     */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

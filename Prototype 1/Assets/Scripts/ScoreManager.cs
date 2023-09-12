@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+     * Darion Jeffries
+     * ScoreManager
+     * Prototype 1
+     * Manages score, win and lose behaviors.
+     */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

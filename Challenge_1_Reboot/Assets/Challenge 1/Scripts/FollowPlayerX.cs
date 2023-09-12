@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+     * Darion Jeffries
+     * FollowPlayer
+     * Challenge 1
+     * Makes the camera follow the player using player's position + offset.
+     */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
